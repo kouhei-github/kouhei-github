@@ -2,7 +2,7 @@
 
 ## Skill Set
 
-[![My Skills](https://skillicons.dev/icons?i=go,gin,py,fastapi,django,php,laravel,js,express,ts,react,nextjs,vue,nuxtjs,idea,github,githubactions,docker,aws,vercel&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,echo,py,fastapi,django,php,laravel,js,express,ts,react,nextjs,vue,nuxtjs,idea,github,githubactions,docker,aws,vercel&perline=10)](https://skillicons.dev)
 
 ## Status
 <a href="https://github.com/anuraghazra/github-readme-stats">
