@@ -6,7 +6,7 @@
 
 ## Status
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Seo-4d696b75&count_private=true&show_icons=true&theme=dark" height="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=kouhei-github&count_private=true&show_icons=true&theme=dark" height="200">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kouhei-github&layout=compact&theme=dark&hide=html" height="200">
